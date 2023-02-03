@@ -1,6 +1,4 @@
-h1, h2, h3, h4, h5, h6 {
-	font-family: var(--font-secondaryFamily);
-}
+
 
 .sr-hidden {
 	display: none;
@@ -18,16 +16,8 @@ h1, h2, h3, h4, h5, h6 {
 	padding-right: 0;
 }
 
-.article__img--big img {
-	width: 100%;
-	height: auto;
-}
-.article__img--big figcaption {
-	border-bottom: 1px solid lightgrey;
-	padding-bottom: .5em;
-	text-align: right;
-	font-style: italic;
-}
+
+
 
 .siteBrand {
 	font-size: 200%;
